@@ -54,8 +54,8 @@ The automation reads multiple PDF resumes, extracts candidate details, compares 
                       │
                       ▼
    Send Automated Email Notification
+```
 
-   
 
 ## 🧠 AI Evaluation Criteria
 
