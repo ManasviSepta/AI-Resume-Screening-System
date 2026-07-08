@@ -31,6 +31,7 @@ The automation reads multiple PDF resumes, extracts candidate details, compares 
 
 ## 🏗️ Workflow
 
+```text
                  Resume PDFs
                       │
                       ▼
