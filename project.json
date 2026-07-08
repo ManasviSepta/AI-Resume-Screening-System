@@ -1,0 +1,65 @@
+{
+  "name": "Ai resume",
+  "projectId": "d1bda31a-c475-4163-a184-54067cda8a7e",
+  "description": "Blank Process",
+  "main": "Main.xaml",
+  "dependencies": {
+    "UiPath.DocumentUnderstanding.ML.Activities": "[2.3.0]",
+    "UiPath.Excel.Activities": "[3.5.3]",
+    "UiPath.GSuite.Activities": "[3.10.10]",
+    "UiPath.IntegrationService.Activities": "[1.28.0]",
+    "UiPath.IntelligentOCR.Activities": "[7.3.0]",
+    "UiPath.MLServices.Activities": "[2.1.0]",
+    "UiPath.PDF.Activities": "[4.3.0]",
+    "UiPath.System.Activities": "[26.6.1]",
+    "UiPath.WebAPI.Activities": "[2.4.0]"
+  },
+  "webServices": [],
+  "entitiesStores": [],
+  "schemaVersion": "4.0",
+  "studioVersion": "26.0.196.0",
+  "projectVersion": "1.0.0",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "netFrameworkLazyLoading": false,
+    "isPausable": true,
+    "isAttended": false,
+    "requiresUserInteraction": true,
+    "supportsPersistence": false,
+    "workflowSerialization": "NewtonsoftJson",
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ],
+    "executionType": "Workflow",
+    "readyForPiP": false,
+    "startsInPiP": false,
+    "mustRestoreAllDependencies": true,
+    "pipType": "ChildSession"
+  },
+  "designOptions": {
+    "projectProfile": "Developement",
+    "outputType": "Process",
+    "libraryOptions": {
+      "privateWorkflows": []
+    },
+    "processOptions": {
+      "ignoredFiles": []
+    },
+    "fileInfoCollection": [],
+    "saveToCloud": false
+  },
+  "expressionLanguage": "VisualBasic",
+  "entryPoints": [
+    {
+      "filePath": "Main.xaml",
+      "uniqueId": "36bdbff5-15f0-4c12-bf91-3c9a08924952",
+      "input": [],
+      "output": []
+    }
+  ],
+  "isTemplate": false,
+  "templateProjectData": {},
+  "publishData": {},
+  "targetFramework": "Windows"
+}
