@@ -89,9 +89,9 @@ Each resume is evaluated based on:
 - Professional rejection message
 - Encouragement to apply for future opportunities
 
-
 ## 📂 Project Structure
 
+```text
 AI-Resume-Screening/
 │
 ├── Data/
@@ -106,6 +106,8 @@ AI-Resume-Screening/
 ├── Main.xaml
 ├── project.json
 └── README.md
+```
+
 
 ## 🛠️ Technologies Used
 
