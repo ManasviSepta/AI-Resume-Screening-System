@@ -2,15 +2,11 @@
 
 An intelligent recruitment automation solution built using **UiPath** and **Generative AI** that automates resume screening, candidate evaluation, and email notifications. The system compares resumes with a given Job Description, generates AI-based scores and recommendations, exports the results to Excel, and sends personalized emails to candidates.
 
----
-
 ## 📌 Overview
 
 Recruiters often spend significant time manually reviewing resumes to identify suitable candidates. This project automates the entire initial recruitment process by leveraging **UiPath** and **Generative AI**.
 
 The automation reads multiple PDF resumes, extracts candidate details, compares them against the provided Job Description, evaluates each candidate based on technical skills, experience, and education, generates an AI-powered recommendation, stores the results in an Excel report, and automatically sends personalized email notifications.
-
----
 
 ## ✨ Features
 
@@ -32,8 +28,6 @@ The automation reads multiple PDF resumes, extracts candidate details, compares 
 - ✅ Generates hiring recommendations (Selected / Rejected)
 - 📧 Sends personalized email notifications automatically
 - 📈 Exports evaluation results to Excel
-
----
 
 ## 🏗️ Workflow
 
@@ -59,9 +53,6 @@ The automation reads multiple PDF resumes, extracts candidate details, compares 
                       │
                       ▼
    Send Automated Email Notification
-```
-
----
 
 ## 🧠 AI Evaluation Criteria
 
@@ -74,7 +65,6 @@ Each resume is evaluated based on:
 | Education | Compares educational qualifications |
 | Overall Score | AI-generated candidate suitability score |
 
----
 
 ## 📊 Recommendation Logic
 
@@ -83,7 +73,6 @@ Each resume is evaluated based on:
 | **≥ 70**      | ✅ Selected   |
 | **< 70**      | ❌ Rejected   |
 
----
 
 ## 📧 Automated Email Notification
 
@@ -97,7 +86,6 @@ Each resume is evaluated based on:
 - Professional rejection message
 - Encouragement to apply for future opportunities
 
----
 
 ## 📂 Project Structure
 
@@ -115,9 +103,6 @@ AI-Resume-Screening/
 ├── Main.xaml
 ├── project.json
 └── README.md
-```
-
----
 
 ## 🛠️ Technologies Used
 
@@ -131,7 +116,6 @@ AI-Resume-Screening/
 - Generative AI
 - Robotic Process Automation (RPA)
 
----
 ## 🚀 Getting Started
 
 ### 1. Clone the Repository
@@ -167,8 +151,7 @@ After execution:
 - AI evaluates all resumes.
 - Results are generated in **Results.xlsx**.
 - Personalized email notifications are sent automatically.
-
----
+- 
 ## 🎓 Learning Outcomes
 
 This project demonstrates:
@@ -182,9 +165,4 @@ This project demonstrates:
 - Excel Automation
 - Email Automation
 - End-to-End Recruitment Workflow Automation
-
-
-
-If you found this project helpful, consider giving it a **⭐ Star** on GitHub.
-
-It motivates me to build and share more AI and automation projects.
+.
