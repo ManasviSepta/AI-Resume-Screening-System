@@ -156,6 +156,10 @@ After execution:
 - AI evaluates all resumes.
 - Results are generated in **Results.xlsx**.
 - Personalized email notifications are sent automatically.
+- <img width="1918" height="1073" alt="Screenshot 2026-07-08 190322" src="https://github.com/user-attachments/assets/d234fef8-a893-43cc-ad1f-a237cb2ddafc" />
+<img width="1600" height="901" alt="WhatsApp Image 2026-07-08 at 7 02 48 PM" src="https://github.com/user-attachments/assets/5b014f99-6eb6-415e-a324-934e4f7c5266" />
+<img width="719" height="1090" alt="WhatsApp Image 2026-07-08 at 7 04 31 PM" src="https://github.com/user-attachments/assets/293885ab-5d11-466d-84c4-411c07498fab" />
+
 - 
 ## 🎓 Learning Outcomes
 
