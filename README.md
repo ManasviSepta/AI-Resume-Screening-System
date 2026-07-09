@@ -126,7 +126,7 @@ AI-Resume-Screening/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/AI-Resume-Screening-Using-UiPath-GenAI.git
+git clone https://github.com/ManasviSepta/AI-Resume-Screening-System.git
 ```
 
 ### 2. Open the Project
